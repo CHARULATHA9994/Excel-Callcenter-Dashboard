@@ -9,8 +9,7 @@ dynamic dashboard — using advanced Excel features.
 
 ## 🖼️ Dashboard Preview
 
-![Call Centre Dynamic Dashboard]
-(EXCEL-project-call-centre-Dynamic-Dashboard-screenshot.png)
+(![Dashboard Preview](https://github.com/CHARULATHA9994/PowerBI-Sales-Analytics-Dashboard/raw/main/Sales_Analytics_dashboard(powerbi_project).png))
 
 ---
 
